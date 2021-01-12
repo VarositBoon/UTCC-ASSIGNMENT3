@@ -1,0 +1,145 @@
+[
+  {
+    "id": 0,
+    "name": "Lebron James",
+    "picture": "images/1.1.jpeg",
+    "age": 1,
+    "breed": "98",
+    "location": "LA Laker"
+  },
+  {
+    "id": 1,
+    "name": "Kevin Durant",
+    "picture": "images/2.1.jpeg",
+    "age": 2,
+    "breed": "90",
+    "location": "Brokklyn Nets"
+  },
+  {
+    "id": 2,
+    "name": "Kyrie Irving",
+    "picture": "images/3.1.jpeg",
+    "age": 2,
+    "breed": "88",
+    "location": "Brooklyn Nets"
+  },
+  {
+    "id": 3,
+    "name": "Stephen Curry",
+    "picture": "images/4.1.jpeg",
+    "age": 7,
+    "breed": "94",
+    "location": "Golden State Warrior"
+  },
+
+  {
+    "id": 4,
+    "name": "Chris Paul",
+    "picture": "images/5.1.jpeg",
+    "age": 2,
+    "breed": "98",
+    "location": "Houston Rocket"
+  },
+
+  {
+    "id": 5,
+    "name": "Vince Carter",
+    "picture": "images/7.1.jpeg",
+    "age": 15,
+    "breed": "92",
+    "location": "Toronto Raptors"
+  },
+
+  {
+    "id": 6,
+    "name": "Michael Jordan AKA the GOAT",
+    "picture": "images/8.1.jpeg",
+    "age": 24,
+    "breed": "98",
+    "location": "Chicago Bulls"
+  },
+
+  {
+    "id": 7,
+    "name": "Jamal Crawford",
+    "picture": "images/8.123.jpeg",
+    "age": 16,
+    "breed": "92",
+    "location": "New York Knicks"
+  },
+
+  {
+    "id": 8,
+    "name": "Dwayne Wade",
+    "picture": "images/10.1.jpeg",
+    "age": 8,
+    "breed": "97",
+    "location": "Miami Heat"
+  },
+  
+  {
+    "id": 9,
+    "name": "Kevin Garnett",
+    "picture": "images/11.1.jpeg",
+    "age": 15,
+    "breed": "94",
+    "location": "Minisota Timberwolves"
+  },
+
+  {
+    "id": 10,
+    "name": "Rajon Rondo",
+    "picture": "images/12.1.jpeg",
+    "age": 12,
+    "breed": "95",
+    "location": "Boston Celtics"
+  },
+
+  {
+    "id": 11,
+    "name": "Pau Gasol",
+    "picture": "images/13.1.jpeg",
+    "age": 11,
+    "breed": "90",
+    "location": "LA Lakers"
+  },
+
+  {
+    "id": 12,
+    "name": "Khawhi Leonard",
+    "picture": "images/14.1.jpeg",
+    "age": 1,
+    "breed": "90",
+    "location": "LA Clippers"
+  },
+
+  {
+    "id": 13,
+    "name": "James Harden",
+    "picture": "images/15.1.jpeg",
+    "age": 3,
+    "breed": "94",
+    "location": "Houston Rocket"
+  },
+
+  {
+    "id": 13,
+    "name": "Paul George",
+    "picture": "images/16.1.jpeg",
+    "age": 3,
+    "breed": "89",
+    "location": "Oklahoma City Thunders"
+  },
+
+  {
+    "id": 13,
+    "name": "Damian Lillard",
+    "picture": "images/18.1.jpeg",
+    "age": 3,
+    "breed": "97",
+    "location": "Portland Trialblazers"
+  }
+
+
+
+]
